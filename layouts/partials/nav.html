@@ -2,6 +2,6 @@
 {{ range .Site.Menus.main }}
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
-{{ with .Site.GetPage "/blog" }}
-<a href="{{ "/blog" | relURL }}">Blog</a>
+{{ with .Site.GetPage "/chronolog" }}
+<a href="{{ "/chronolog" | relURL }}">Chronolog</a>
 {{ end }}
