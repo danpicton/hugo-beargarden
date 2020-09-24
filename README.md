@@ -11,7 +11,7 @@ Please use [GitHub issues](https://github.com/danpicton/hugo-beargarden/issues) 
 
 ## Special Thanks 🎁
 
-Thanks to [Jan Raasch](janraasch.com), for putting in the hard work which I've lifted completely. Also, I second Jan's thanks to [Herman](https://herman.bearblog.dev), for creating the original [ʕ•ᴥ•ʔ Bear Blog](https://bearblog.dev/). Cheers, guys - I apologies if some of my design decisions with this theme are cringeworthy, but wanted to make something that fits the specific needs of my site!
+Thanks to [Jan Raasch](https://janraasch.com), for putting in the hard work which I've lifted completely. Also, I second Jan's thanks to [Herman](https://herman.bearblog.dev), for creating the original [ʕ•ᴥ•ʔ Bear Blog](https://bearblog.dev/). Cheers, guys - I apologies if some of my design decisions with this theme are cringeworthy, but wanted to make something that fits the specific needs of my site!
 
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License) © [Dan Picton](https://picton.uk)
